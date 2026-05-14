@@ -1,0 +1,9 @@
+## Interface: 120005
+## Title: Yapper Plugin: Editbox Reader (TTS)
+## Notes: A Text-to-Speech proofreader for WoW-Yapper.
+## Version: 1.0.0
+## IconTexture: 6624474
+## Author: Sara Schulze Øverby
+## RequiredDeps: Yapper
+
+Yapper_EditboxReader.lua
